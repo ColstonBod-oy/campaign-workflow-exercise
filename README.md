@@ -19,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 AI tools used:
 
 - Figma Make
-- Cursor (can't use premium models so had to switch to VS Code)
+- Cursor (can't use premium models so had to switch to VS Code, I only discovered after the recording that because of cursor's update I have to enable the free ones hidden on the settings darn you cursor!)
 - Github Copilot
 - ChatGPT
 
